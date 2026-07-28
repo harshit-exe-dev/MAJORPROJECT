@@ -6,7 +6,7 @@ Built using the MERN backend stack with authentication, authorization, and CRUD 
 
 ## 🚀 Live Demo
 
-🔗 https://YOUR_RENDER_LINK.onrender.com
+🔗 https://majorproject-7kxx.onrender.com
 
 ## 📂 GitHub Repository
 
