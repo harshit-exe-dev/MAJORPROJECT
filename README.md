@@ -53,25 +53,7 @@ Built using the MERN backend stack with authentication, authorization, and CRUD 
 ### Deployment
 - Render
 
----
 
-## 📸 Screenshots
-
-> Add screenshots here after uploading.
-
-### Home Page
-
-![Home](images/home.png)
-
-### Listing Details
-
-![Listing](images/listing.png)
-
-### Login Page
-
-![Login](images/login.png)
-
----
 
 ## 📦 Installation
 
@@ -164,7 +146,7 @@ WanderLust/
 
 GitHub: https://github.com/harshit-exe-dev
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: https://www.linkedin.com/in/harrshitbharrti?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
